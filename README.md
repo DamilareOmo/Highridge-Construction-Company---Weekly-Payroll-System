@@ -1,3 +1,9 @@
+
+## Author
+Sodiq Omoniyi
+Software Engineer 
+Highridge Construction Company Assignment — Module 1
+
 # Highridge Construction Company — Weekly Payroll System
 
 ## Overview
@@ -10,8 +16,8 @@ generation of weekly payment slips for their workforce. It is implemented in bot
 ## Files Included
 | File | Description |
 |------|-------------|
-| `highridge_payroll.py` | Python payroll program |
-| `highridge_payroll.R`  | R equivalent of the Python program |
+| `sodiq_omoniyi_module_1_assignment.py` | Python payroll system |
+| `sodiq_omoniyi_module_1_assignment.R`  | R equivalent of the Python system |
 | `README.md`            | This file |
 
 ---
@@ -36,7 +42,7 @@ generation of weekly payment slips for their workforce. It is implemented in bot
 **Requirements:** Python 3.7 or later (no external libraries needed).
 
 ```bash
-python highridge_payroll.py
+python sodiq_omoniyi_module_1_assignment.py
 ```
 
 Payment slips for all 400 workers will be printed to the terminal.
@@ -47,12 +53,12 @@ Payment slips for all 400 workers will be printed to the terminal.
 **Requirements:** R 4.0 or later (base R only — no extra packages needed).
 
 #### Option 1 — RStudio
-1. Open `highridge_payroll.R` in RStudio.
+1. Open `sodiq_omoniyi_module_1_assignment.R` in RStudio.
 2. Click **Source** (or press `Ctrl+Shift+Enter`).
 
 #### Option 2 — Command Line
 ```bash
-Rscript highridge_payroll.R
+Rscript sodiq_omoniyi_module_1_assignment.R
 ```
 
 ---
@@ -64,10 +70,10 @@ Rscript highridge_payroll.R
   Weekly Payment Slip
 =============================================
   Employee ID : 1
-  Name        : Ngozi Worker1
-  Gender      : Female
-  Salary      : $18,432.75
-  Level       : A5-F
+  Name        : John Michael Worker-1
+  Gender      : Male
+  Salary      : $16,084.91
+  Level       : A1
 =============================================
 ```
 
@@ -80,8 +86,3 @@ Rscript highridge_payroll.R
 - Exception handling wraps both the entire program and individual slip generation so
   a single bad record never aborts the whole run.
 
----
-
-## Author
-Software Engineer (Contracted)  
-Highridge Construction Company Assignment — Module 1
