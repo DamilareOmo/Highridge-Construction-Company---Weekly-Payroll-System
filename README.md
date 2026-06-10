@@ -76,7 +76,7 @@ Rscript sodiq_omoniyi_module_1_assignment.R
 
 ## Design Notes
 - Workers are generated **dynamically** inside a helper function.
-- The classification logic is isolated in its own function (`classify_employee`) to
+- The classification logic is isolated in its own function (`employee_level_assigning`) to
   keep it readable and easy to modify.
 - Exception handling wraps both the entire program and individual slip generation so
   a single bad record never aborts the whole run.
