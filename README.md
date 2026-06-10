@@ -85,7 +85,7 @@ Rscript sodiq_omoniyi_module_1_assignment.R
 ---
 
 ## Author
-Sodiq Omoniyi
-Software Engineer 
+Sodiq Omoniyi |
+Software Engineer |
 Highridge Construction Company Assignment — Module 1
 
