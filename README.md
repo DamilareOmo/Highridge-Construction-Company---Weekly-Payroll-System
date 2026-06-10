@@ -3,7 +3,7 @@
 # Highridge Construction Company — Weekly Payroll System
 
 ## Overview
-This project was developed for **Highridge Construction Company** to automate the
+This was developed for **Highridge Construction Company** to automate the
 generation of weekly payment slips for their workforce. It is implemented in both
 **Python** and **R**.
 
