@@ -12,8 +12,8 @@ generation of weekly payment slips for their workforce. It is implemented in bot
 ## Files Included
 | File | Description |
 |------|-------------|
-| `sodiq_omoniyi_module_1_assignment.py`  | Python payroll system |
-| `sodiq_omoniyi_module_1_assignment.R`  | R equivalent of the Python system |
+| `highridge_weekly_payroll.py`  | Python payroll system |
+| `highridge_weekly_payroll.R`  | R equivalent of the Python system |
 | `README.md`            | This file |
 
 ---
@@ -37,7 +37,7 @@ generation of weekly payment slips for their workforce. It is implemented in bot
 **Requirements:** Python 3.7 or later (no external libraries needed).
 
 ```bash
-python sodiq_omoniyi_module_1_assignment.py
+python highridge_weekly_payroll.py
 ```
 
 Payment slips for all 400 workers will be printed to the terminal.
@@ -48,7 +48,7 @@ Payment slips for all 400 workers will be printed to the terminal.
 **Requirements:** R 4.0 or later (base R only — no extra packages needed).
 
 #### Option 1 — RStudio
-1. Open `sodiq_omoniyi_module_1_assignment.R` in RStudio.
+1. Open `highridge_weekly_payroll.R` in RStudio.
 2. Click **Source** (or press `Ctrl+Shift+Enter`).
 
 #### Option 2 — Command Line
