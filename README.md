@@ -12,7 +12,7 @@ generation of weekly payment slips for their workforce. It is implemented in bot
 ## Files Included
 | File | Description |
 |------|-------------|
-| `sodiq_omoniyi_module_1_assignment.py` | Python payroll system |
+| `sodiq_omoniyi_module_1_assignment.py`  | Python payroll system |
 | `sodiq_omoniyi_module_1_assignment.R`  | R equivalent of the Python system |
 | `README.md`            | This file |
 
