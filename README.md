@@ -1,8 +1,4 @@
 
-## Author
-Sodiq Omoniyi
-Software Engineer 
-Highridge Construction Company Assignment — Module 1
 
 # Highridge Construction Company — Weekly Payroll System
 
@@ -85,4 +81,11 @@ Rscript sodiq_omoniyi_module_1_assignment.R
   keep it readable and easy to modify.
 - Exception handling wraps both the entire program and individual slip generation so
   a single bad record never aborts the whole run.
+
+---
+
+## Author
+Sodiq Omoniyi
+Software Engineer 
+Highridge Construction Company Assignment — Module 1
 
