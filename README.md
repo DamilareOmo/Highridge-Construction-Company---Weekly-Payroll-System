@@ -25,8 +25,7 @@ generation of weekly payment slips for their workforce. It is implemented in bot
 - Applies the following **employee-level classification rules**:
   - **A1** — Salary is greater than \$10,000 and less than \$20,000.
   - **A5-F** — Salary is greater than \$7,500 and less than \$30,000 **and** the
-    employee is Female. *(This rule takes precedence over A1 when both conditions
-    are satisfied.)*
+    employee is Female.
 - Includes **exception handling** to catch and report errors at both the worker and
   program level without crashing the entire run.
 
